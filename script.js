@@ -73,15 +73,15 @@ const products = [
   },
   {
     id: 5,
-    name: 'Muga Silk Kurta',
-    category: 'Menswear',
-    price: '₹7,800',
-    material: 'Golden Muga Silk',
-    description: 'A refined kurta crafted in the rarest textile of Assam — Muga silk. The garment features a mandarin collar, hand-stitched placket, and subtle self-woven geometric patterns. Its natural golden sheen grows richer with every wash, making it a living heirloom.',
+    name: 'Barnali Paat Gamusa',
+    category: 'Dora Gamusa',
+    price: '₹1500',
+    material: 'White Barnali Silk',
+    description: 'Crafted from premium white Barnali silk, this Gamusa features elegant Japi-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
-      'https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80',
-      'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80',
-      'https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&q=80',
+      'https://i.postimg.cc/dVnTFBJJ/Gemini-Generated-Image-f5gsv6f5gsv6f5gs.png?w=800&q=80',
+      'https://i.postimg.cc/k59t3p0y/Gemini-Generated-Image-vugvyqvugvyqvugv.png?w=800&q=80',
+      'https://i.postimg.cc/dVnTFBJJ/Gemini-Generated-Image-f5gsv6f5gsv6f5gs.png?w=800&q=80',
     ]
   },
   {
