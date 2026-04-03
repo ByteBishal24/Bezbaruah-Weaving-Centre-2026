@@ -34,15 +34,15 @@ const products = [
   },
   {
     id: 2,
-    name: 'Assamese Cotton Dhoti Set',
+    name: 'Assamese Dora Gamusa',
     category: 'Menswear',
-    price: '₹5,200',
-    material: 'Handspun Assam Cotton',
-    description: 'A masterpiece of traditional menswear, this dhoti-kurta set is woven from fine Assamese cotton with an unmistakable crisp drape. The red gamosa border — a symbol of respect and honour in Assam — runs the full length. Ideal for Bihu festivals and formal ceremonies.',
+    price: '₹1500',
+    material: 'White Barnali Silk',
+    description: 'Crafted from premium white Barnali silk, this Gamusa features elegant Japi-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
-      'https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&q=80',
-      'https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=800&q=80',
-      'https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80',
+      'https://i.postimg.cc/L5WKMGhW/Gemini-Generated-Image-7cp2ur7cp2ur7cp2.png?w=800&q=80',
+      'https://i.postimg.cc/85hjcBLW/Gemini-Generated-Image-sf5znysf5znysf5z.png?w=800&q=80',
+      'https://i.postimg.cc/L5WKMGhW/Gemini-Generated-Image-7cp2ur7cp2ur7cp2.png?w=800&q=80',
     ]
   },
   {
