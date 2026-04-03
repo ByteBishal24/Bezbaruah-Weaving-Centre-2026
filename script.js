@@ -8,15 +8,15 @@
 const products = [
   {
     id: 0,
-    name: 'Muga Silk Mekhela Chador',
+    name: 'Gamusa Japi Design',
     category: 'Womenswear',
     price: '₹12,500',
-    material: 'Golden Muga Silk',
-    description: 'The quintessential Assamese garment, this Mekhela Chador is woven in the prized golden Muga silk — a fiber unique to Assam. The natural gold lustre deepens with age, making it a garment for generations. Intricate motifs inspired by the Kaziranga rhino and lotus patterns adorn the border.',
+    material: 'White Barnali Silk',
+    description: 'Crafted from premium white Barnali silk, this Gamusa features elegant Japi-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
-      'https://images.unsplash.com/photo-1583744946564-b52ac1c389c8?w=800&q=80',
-      'https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80',
-      'https://images.unsplash.com/photo-1594938298603-c8148c4b4f18?w=800&q=80',
+      'https://i.postimg.cc/NGXJ0h36/Gemini-Generated-Image-qah97hqah97hqah9.png?w=800&q=80',
+      'https://i.postimg.cc/1X8vG2X9/Gemini-Generated-Image-805gl5805gl5805g.png?w=800&q=80',
+      'https://i.postimg.cc/NGXJ0h36/Gemini-Generated-Image-qah97hqah97hqah9.png?w=800&q=80',
     ]
   },
   {
