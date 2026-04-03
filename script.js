@@ -8,7 +8,7 @@
 const products = [
   {
     id: 0,
-    name: 'Gamusa Japi Design',
+    name: 'Assamese Dora Gamusa Japi Design',
     category: 'Womenswear',
     price: '₹1500',
     material: 'White Barnali Silk',
@@ -21,15 +21,15 @@ const products = [
   },
   {
     id: 1,
-    name: 'Eri Silk Draped Saree',
+    name: 'Assamese Dora Gamusa ( ',
     category: 'Womenswear',
-    price: '₹8,900',
-    material: 'Eri Silk (Peace Silk)',
-    description: 'Crafted from Eri silk — known as "peace silk" as it is harvested without harming the silkworm — this saree has a warm, woollen texture perfect for cooler months. The soft ivory ground is complemented by earth-toned geometric border work reflecting tribal Assamese motifs.',
+    price: '₹1450',
+    material: 'White Barnali Silk',
+    description: 'Crafted from premium white Barnali silk, this Gamusa features elegant Japi-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
-      'https://images.unsplash.com/photo-1594938298603-c8148c4b4f18?w=800&q=80',
-      'https://images.unsplash.com/photo-1603208851575-3d523d3e9db4?w=800&q=80',
-      'https://images.unsplash.com/photo-1583744946564-b52ac1c389c8?w=800&q=80',
+      'https://i.postimg.cc/2yB9hM9G/Gemini-Generated-Image-3g6ddv3g6ddv3g6d.png?w=800&q=80',
+      'https://i.postimg.cc/kGfGNYVr/Gemini-Generated-Image-ap3db2ap3db2ap3d.png?w=800&q=80',
+      'https://i.postimg.cc/2yB9hM9G/Gemini-Generated-Image-3g6ddv3g6ddv3g6d.png?w=800&q=80',
     ]
   },
   {
