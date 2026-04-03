@@ -60,15 +60,15 @@ const products = [
   },
   {
     id: 4,
-    name: 'Pat Silk Blouse Fabric',
-    category: 'Womenswear',
-    price: '₹3,400',
-    material: 'Pat Silk',
-    description: 'Pat silk, the brighter and more lustrous cousin of Muga, is woven here into exquisite blouse fabric. The vibrant crimson with golden zari work on the border makes it the perfect companion to a traditional Mekhela Chador. Each metre is painstakingly woven on pit-loom handlooms.',
+    name: 'Tradional Dora Gamusa (Mogor)',
+    category: 'Dora Gamusa',
+    price: '₹1499',
+    material: 'White Barnali Silk',
+    description: 'Crafted from premium white Barnali Paat, this Gamusa features elegant Mogor-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
-      'https://images.unsplash.com/photo-1570976447640-ac859083963f?w=800&q=80',
-      'https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&q=80',
-      'https://images.unsplash.com/photo-1610047803562-7260ebe516c2?w=800&q=80',
+      'https://i.postimg.cc/y8cGxDky/Gemini-Generated-Image-sy6k3ssy6k3ssy6k.png?w=800&q=80',
+      'https://i.postimg.cc/WbDCRWVG/Gemini-Generated-Image-mmtii4mmtii4mmti.png?w=800&q=80',
+      'https://i.postimg.cc/y8cGxDky/Gemini-Generated-Image-sy6k3ssy6k3ssy6k.png?w=800&q=80',
     ]
   },
   {
