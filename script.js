@@ -47,15 +47,15 @@ const products = [
   },
   {
     id: 3,
-    name: 'Traditional Gamosa',
-    category: 'Accessories',
-    price: '₹850',
-    material: 'Pure Cotton',
-    description: 'The Gamosa is more than a cloth — it is the soul of Assam. Woven with white cotton and red thread border featuring the traditional jaapi and floral motifs, it is given as a gesture of respect and love. Used in Bihu celebrations, religious ceremonies and as everyday towels.',
+    name: 'Traditional Dora Gamosa',
+    category: 'Gamusa',
+    price: '₹1500',
+    material: 'White Barnali Silk',
+    description: 'Crafted from premium white Barnali silk, this Gamusa features elegant Barfi-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
-      'https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=800&q=80',
-      'https://images.unsplash.com/photo-1621793335958-b5e4f50c1a61?w=800&q=80',
-      'https://images.unsplash.com/photo-1523779105320-d1cd346ff52b?w=800&q=80',
+      'https://i.postimg.cc/nc52vp6K/Gemini-Generated-Image-j1rwjqj1rwjqj1rw-2.jpg?w=800&q=80',
+      'https://i.postimg.cc/7YLt3Bbw/Gemini-Generated-Image-5dw2tm5dw2tm5dw2-2.jpg?w=800&q=80',
+      'https://i.postimg.cc/nc52vp6K/Gemini-Generated-Image-j1rwjqj1rwjqj1rw-2.jpg?w=800&q=80',
     ]
   },
   {
