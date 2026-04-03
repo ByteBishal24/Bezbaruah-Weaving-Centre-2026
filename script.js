@@ -10,7 +10,7 @@ const products = [
     id: 0,
     name: 'Gamusa Japi Design',
     category: 'Womenswear',
-    price: '₹12,500',
+    price: '₹1500',
     material: 'White Barnali Silk',
     description: 'Crafted from premium white Barnali silk, this Gamusa features elegant Japi-inspired motifs that celebrate Assamese tradition. Lightweight, refined, and culturally rich — a true symbol of heritage.',
     images: [
